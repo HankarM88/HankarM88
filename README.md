@@ -1,6 +1,6 @@
 # Hi, I'm Mustapha Hankar! 👋
 
-Welcome to my GitHub profile! I am a ** Data Scientist** with a PhD in Computer Science, specializing in data analytics, machine learning, and artificial intelligence. My experience spans academic research, applied machine learning, and project development, with a particular focus on natural language processing (NLP) and deep learning techniques.
+Welcome to my GitHub profile! I am a **Data Scientist** with a PhD in Computer Science, specializing in data analytics, machine learning, and artificial intelligence. My experience spans academic research, applied machine learning, and project development, with a particular focus on natural language processing (NLP) and deep learning techniques.
 
 ## 🧠 About Me
 
