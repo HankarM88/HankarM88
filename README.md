@@ -5,7 +5,7 @@ I am a **Data Scientist** and a **Researcher** specializing in data analytics, m
 ## 🧠 About Me
 
 - 💼 Data Scientist and Researcher
-- 📜 **PhD** in Computer Science (NLP)
+- 📜 **PhD** in Computer Science (Data Science and NLP)
 - 📊 Skilled in **Machine Learning**, **Deep Learning**, **Data Visualization**, Time Series Analaysis, and **NLP**
 - 💻 Experienced in building **end-to-end machine learning systems** and deploying data-driven solutions for real-world problems
 - 📝 Published research papers in **NLP**, **AI**, and **machine learning** in international journals and conferences
