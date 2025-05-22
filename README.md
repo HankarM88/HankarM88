@@ -68,3 +68,4 @@ I am a **Data Scientist** and a **Researcher** specializing in data analytics, m
    **Used Car Price Prediction Using Machine Learning: A Case Study**  
    *11th International Symposium on Signal, Image, Video and Communications (ISIVC)*, May 18–20, 2022, El Jadida, Morocco
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
