@@ -28,7 +28,18 @@ I am a **Data Scientist** and a **Researcher** specializing in data analytics, m
 - **Machine Learning Specialization** - Stanford University
 - **Professional Data Scientist** - DataCamp
 - **Fundamentals of Deep Learning** - NVIDIA
+## 📄 Publications 
+[1]	Hankar Mustapha, Mohammed Kasri, and Abderrahim Beni-Hssane. A Comprhensive Overview of Topic Modeling Techniques, Applications and Challenges. Neurocomputing (Published, Q1, IF=5.5, CS=13)
+[2]	Hankar Mustapha, Toufik Mzili, Mohammed Kasri, and Abderrahim Beni-Hssane. Sentiment Analysis Survey: Datasets, Techniques, Applications and Challenges. Knowledge and Information Systems (Accepted for publication, Q1, IF=2.6, CS=5.7)
+[3]	Mustapha Hankar, Marouane Birjali, Anas El-Ansari, Abderrahim Benhi-Hssane. COVID-19    Impact Sentiment Analysis on a Topic-based Level. Journal of ICT Standardization: 2022: Volume 10 Issue 2. 
+[4]	Mustapha Hankar, Birjali Marouane, Beni-Hssane Abderrahim. Forecasting COVID-19 Cases in   Morocco: A Deep Learning Approach. Proceedings of the 4th international conference of Networking, Intelligent Systems, and Security (NISS). April 1-2, 2021, Kenitra, Morocco. 
+[5]	Mustapha Hankar, Birjali Marouane, Beni-Hssane Abderrahim. Arabic Topic Modeling-Based Sentiment Analysis on COVID-19 Feedback Comments. The international conference on Information, Communication and Security. November 10-11, 2021, Khourigba, Morocco.
+[6]	El-Ansari Anas, Birjali Marouane, Mustapha Hankar, Beni-Hssane Abderrahim. Privacy Threat Modeling in Personalized Search Systems. The international conference on Information, Communication and Security. November 10-11, 2021, Khourigba, Morocco.
+[7]	Mustapha Hankar, Birjali, Marouane, Beni-Hssane, Abderrahim. Machine Learning Modelling to Estimate Used Car Prices. The 5th International Conference on Networking, Information Systems & Security. March 30-31, 2022, Research Center for Informatics at National Research and Innovation Agency in Indonesia. 
+[8]	Mustapha Hankar, Marouane Birjali and Abderrahim Beni-Hssane. Used Car Price Prediction Using Machine Learning: A Case Study. The 11th International Symposium on Signal, Image, Video and Communications (ISIVC). May 18-20, 2022, El Jadida, Morocco.
+[9]	Mustapha Hankar, Toufik Mzili, Mohammed kasri, Abderrahim Beni-Hssane. Investigating the various impacts of COVID-19 pandemic over three years using sentiment analysis and topic modeling.  International journal of data science and intelligent systems (Peer review).  
+[10]	Hankar Mustapha, Toufik Mzili, Mohammed Kasri, and Abderrahim Beni-Hssane. A Novel Semi-Supervised Machine Learning Approach for Arabic Text Classification. International Journal of Computers and Applications (Under review)
 
 -----
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HankarM88/your-repo-name&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+!![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
