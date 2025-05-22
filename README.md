@@ -31,41 +31,32 @@ I am a **Data Scientist** and a **Researcher** specializing in data analytics, m
 
 ## 📄 Publications
 
-1. **Hankar Mustapha**, Mohammed Kasri, and Abderrahim Beni-Hssane.  
-   **A Comprehensive Overview of Topic Modeling Techniques, Applications and Challenges**  
+1. **Hankar Mustapha**, Mohammed Kasri, and Abderrahim Beni-Hssane. **A Comprehensive Overview of Topic Modeling Techniques, Applications and Challenges**  
    *Neurocomputing* (Published, **Q1**, IF=5.5, CS=13)
 
-2. **Hankar Mustapha**, Toufik Mzili, Mohammed Kasri, and Abderrahim Beni-Hssane.  
-   **Sentiment Analysis Survey: Datasets, Techniques, Applications and Challenges**  
+2. **Hankar Mustapha**, Toufik Mzili, Mohammed Kasri, and Abderrahim Beni-Hssane. **Sentiment Analysis Survey: Datasets, Techniques, Applications and Challenges**  
    *Knowledge and Information Systems* (Accepted for publication, **Q1**, IF=2.6, CS=5.7)
 
-3. **Mustapha Hankar**, Marouane Birjali, Anas El-Ansari, Abderrahim Beni-Hssane.  
-   **COVID-19 Impact Sentiment Analysis on a Topic-based Level**  
+3. **Mustapha Hankar**, Marouane Birjali, Anas El-Ansari, Abderrahim Beni-Hssane. **COVID-19 Impact Sentiment Analysis on a Topic-based Level**  
    *Journal of ICT Standardization*, 2022, **Vol. 10, Issue 2**
 
-4. **Mustapha Hankar**, Toufik Mzili, Mohammed Kasri, Abderrahim Beni-Hssane.  
-   **Investigating the Various Impacts of COVID-19 Pandemic Over Time Using Sentiment Analysis and Topic Modeling**  
+4. **Mustapha Hankar**, Toufik Mzili, Mohammed Kasri, Abderrahim Beni-Hssane. **Investigating the Various Impacts of COVID-19 Pandemic Over Time Using Sentiment Analysis and Topic Modeling**  
    *Smart Applications of Artificial Intelligence and Big Data, CRC Press* 
 
 
-5. **Mustapha Hankar**, Marouane Birjali, Beni-Hssane Abderrahim.  
-   **Forecasting COVID-19 Cases in Morocco: A Deep Learning Approach**  
+5. **Mustapha Hankar**, Marouane Birjali, Beni-Hssane Abderrahim. **Forecasting COVID-19 Cases in Morocco: A Deep Learning Approach**  
    *4th International Conference of Networking, Intelligent Systems, and Security (NISS)*, April 1–2, 2021, Kenitra, Morocco
 
-6. **Mustapha Hankar**, Marouane Birjali, Abderrahim Beni-Hssane.  
-   **Arabic Topic Modeling-Based Sentiment Analysis on COVID-19 Feedback Comments**  
+6. **Mustapha Hankar**, Marouane Birjali, Abderrahim Beni-Hssane. **Arabic Topic Modeling-Based Sentiment Analysis on COVID-19 Feedback Comments**  
    *International Conference on Information, Communication and Security*, November 10–11, 2021, Khouribga, Morocco
 
-7. **El-Ansari Anas**, Marouane Birjali, **Mustapha Hankar**, Abderrahim Beni-Hssane.  
-   **Privacy Threat Modeling in Personalized Search Systems**  
+7. **El-Ansari Anas**, Marouane Birjali, **Mustapha Hankar**, Abderrahim Beni-Hssane. **Privacy Threat Modeling in Personalized Search Systems**  
    *International Conference on Information, Communication and Security*, November 10–11, 2021, Khouribga, Morocco
 
-8. **Mustapha Hankar**, Marouane Birjali, Abderrahim Beni-Hssane.  
-   **Machine Learning Modelling to Estimate Used Car Prices**  
+8. **Mustapha Hankar**, Marouane Birjali, Abderrahim Beni-Hssane. **Machine Learning Modelling to Estimate Used Car Prices**  
    *5th International Conference on Networking, Information Systems & Security (NISS)*, March 30–31, 2022, Research Center for Informatics, Indonesia
 
-9. **Mustapha Hankar**, Marouane Birjali, Abderrahim Beni-Hssane.  
-   **Used Car Price Prediction Using Machine Learning: A Case Study**  
+9. **Mustapha Hankar**, Marouane Birjali, Abderrahim Beni-Hssane. **Used Car Price Prediction Using Machine Learning: A Case Study**  
    *11th International Symposium on Signal, Image, Video and Communications (ISIVC)*, May 18–20, 2022, El Jadida, Morocco
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HankarM88&color=blue)
