@@ -31,9 +31,9 @@ I am a **Data Scientist** and a **Researcher** specializing in data analytics, m
 
 ## 📄 Publications
 
-1. **Hankar Mustapha**, Mohammed Kasri, and Abderrahim Beni-Hssane. **A Comprehensive Overview of Topic Modeling Techniques, Applications and Challenges**. *Neurocomputing* (Published, **Q1**, IF=5.5, CS=13)
+1. **Hankar Mustapha**, Mohammed Kasri, and Abderrahim Beni-Hssane. **A Comprehensive Overview of Topic Modeling Techniques, Applications and Challenges**. *Neurocomputing* (**Q1**, IF=5.5, CS=13)
 
-2. **Hankar Mustapha**, Toufik Mzili, Mohammed Kasri, and Abderrahim Beni-Hssane. **Sentiment Analysis Survey: Datasets, Techniques, Applications and Challenges**. *Knowledge and Information Systems* (Accepted for publication, **Q1**, IF=2.6, CS=5.7)
+2. **Hankar Mustapha**, Toufik Mzili, Mohammed Kasri, and Abderrahim Beni-Hssane. **Sentiment Analysis Survey: Datasets, Techniques, Applications and Challenges**. *Knowledge and Information Systems* (**Q1**, IF=2.6, CS=5.7)
 
 3. **Mustapha Hankar**, Marouane Birjali, Anas El-Ansari, Abderrahim Beni-Hssane. **COVID-19 Impact Sentiment Analysis on a Topic-based Level**. *Journal of ICT Standardization*, 2022, **Vol. 10, Issue 2**
 
